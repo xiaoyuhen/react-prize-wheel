@@ -35,7 +35,6 @@ _book
 # Only apps should have lockfiles
 npm-shrinkwrap.json
 package-lock.json
-yarn.lock
 
 .DS_Store
 ._.DS_Store
