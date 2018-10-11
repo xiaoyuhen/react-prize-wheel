@@ -1,0 +1,23 @@
+{
+  "name": "react-prize-wheel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaoyuhen/react-prize-wheel.git"
+  },
+  "keywords": [
+    "react",
+    "prize-wheel"
+  ],
+  "author": "xiaoyuhen1994@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xiaoyuhen/react-prize-wheel/issues"
+  },
+  "homepage": "https://github.com/xiaoyuhen/react-prize-wheel#readme"
+}
