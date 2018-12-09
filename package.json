@@ -8,10 +8,13 @@
     "storybook": "start-storybook -p 6006 -c .storybook",
     "build-storybook": "build-storybook"
   },
+<<<<<<< a8110f919dc6d0fb6ac7965cf7ff6e90954babf9
   "peerDependencies": {
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
   },
+=======
+>>>>>>> add storybook
   "repository": {
     "type": "git",
     "url": "git+https://github.com/xiaoyuhen/react-prize-wheel.git"
@@ -42,7 +45,7 @@
     "rollup-plugin-replace": "^2.1.0"
   },
   "dependencies": {
-    "react": "^16.5.2",
-    "react-dom": "^16.5.2"
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
   }
 }
