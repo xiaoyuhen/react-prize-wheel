@@ -1,0 +1,14 @@
+.PrizeWheel-wrapper {
+  border-radius: 100%;
+  background: #BF8B4A;
+  font-size: 26px;
+}
+
+.PrizeWheel-wrapper {
+  width: 580px;
+  height: 580px;
+}
+
+.PrizeWheel-circle {
+  display: none;
+}
